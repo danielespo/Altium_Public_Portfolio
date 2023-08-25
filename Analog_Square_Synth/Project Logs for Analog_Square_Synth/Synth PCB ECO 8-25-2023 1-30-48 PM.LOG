@@ -1,0 +1,96 @@
+Removed Member From Class: ClassName=555_Astable Member=Astable Square Gen1
+Removed Member From Class: ClassName=555_Astable Member=Astable Square Gen2
+Removed Member From Class: ClassName=555_Astable Member=Astable Square Gen3
+Removed Member From Class: ClassName=555_Astable Member=Astable Square Gen4
+Removed Member From Class: ClassName=555_Astable Member=Astable Square Gen5
+Change Component Designator: OldDesignator=C1_Astable Square Gen1 NewDesignator=C1_ASG5
+Change Component Designator: OldDesignator=C1_Astable Square Gen2 NewDesignator=C1_ASG3
+Change Component Designator: OldDesignator=C1_Astable Square Gen3 NewDesignator=C1_ASG1
+Change Component Designator: OldDesignator=C1_Astable Square Gen4 NewDesignator=C1_ASG2
+Change Component Designator: OldDesignator=C1_Astable Square Gen5 NewDesignator=C1_ASG4
+Change Component Designator: OldDesignator=C2_Astable Square Gen1 NewDesignator=C2_ASG5
+Change Component Designator: OldDesignator=C2_Astable Square Gen2 NewDesignator=C2_ASG3
+Change Component Designator: OldDesignator=C2_Astable Square Gen3 NewDesignator=C2_ASG1
+Change Component Designator: OldDesignator=C2_Astable Square Gen4 NewDesignator=C2_ASG2
+Change Component Designator: OldDesignator=C2_Astable Square Gen5 NewDesignator=C2_ASG4
+Change Component Designator: OldDesignator=C3_Astable Square Gen1 NewDesignator=C3_ASG5
+Change Component Designator: OldDesignator=C3_Astable Square Gen2 NewDesignator=C3_ASG3
+Change Component Designator: OldDesignator=C3_Astable Square Gen3 NewDesignator=C3_ASG1
+Change Component Designator: OldDesignator=C3_Astable Square Gen4 NewDesignator=C3_ASG2
+Change Component Designator: OldDesignator=C3_Astable Square Gen5 NewDesignator=C3_ASG4
+Change Component Designator: OldDesignator=D1_Astable Square Gen1 NewDesignator=D1_ASG5
+Change Component Designator: OldDesignator=D1_Astable Square Gen2 NewDesignator=D1_ASG3
+Change Component Designator: OldDesignator=D1_Astable Square Gen3 NewDesignator=D1_ASG1
+Change Component Designator: OldDesignator=D1_Astable Square Gen4 NewDesignator=D1_ASG2
+Change Component Designator: OldDesignator=D1_Astable Square Gen5 NewDesignator=D1_ASG4
+Change Component Designator: OldDesignator=R1_Astable Square Gen1 NewDesignator=R1_ASG5
+Change Component Designator: OldDesignator=R1_Astable Square Gen2 NewDesignator=R1_ASG3
+Change Component Designator: OldDesignator=R1_Astable Square Gen3 NewDesignator=R1_ASG1
+Change Component Designator: OldDesignator=R1_Astable Square Gen4 NewDesignator=R1_ASG2
+Change Component Designator: OldDesignator=R1_Astable Square Gen5 NewDesignator=R1_ASG4
+Change Component Designator: OldDesignator=R2_Astable Square Gen1 NewDesignator=R2_ASG5
+Change Component Designator: OldDesignator=R2_Astable Square Gen2 NewDesignator=R2_ASG3
+Change Component Designator: OldDesignator=R2_Astable Square Gen3 NewDesignator=R2_ASG1
+Change Component Designator: OldDesignator=R2_Astable Square Gen4 NewDesignator=R2_ASG2
+Change Component Designator: OldDesignator=R2_Astable Square Gen5 NewDesignator=R2_ASG4
+Change Component Designator: OldDesignator=R3_Astable Square Gen1 NewDesignator=R3_ASG5
+Change Component Designator: OldDesignator=R3_Astable Square Gen2 NewDesignator=R3_ASG3
+Change Component Designator: OldDesignator=R3_Astable Square Gen3 NewDesignator=R3_ASG1
+Change Component Designator: OldDesignator=R3_Astable Square Gen4 NewDesignator=R3_ASG2
+Change Component Designator: OldDesignator=R3_Astable Square Gen5 NewDesignator=R3_ASG4
+Change Component Designator: OldDesignator=R4_Astable Square Gen1 NewDesignator=R4_ASG5
+Change Component Designator: OldDesignator=R4_Astable Square Gen2 NewDesignator=R4_ASG3
+Change Component Designator: OldDesignator=R4_Astable Square Gen3 NewDesignator=R4_ASG1
+Change Component Designator: OldDesignator=R4_Astable Square Gen4 NewDesignator=R4_ASG2
+Change Component Designator: OldDesignator=R4_Astable Square Gen5 NewDesignator=R4_ASG4
+Change Component Designator: OldDesignator=R5_Astable Square Gen1 NewDesignator=R5_ASG5
+Change Component Designator: OldDesignator=R5_Astable Square Gen2 NewDesignator=R5_ASG3
+Change Component Designator: OldDesignator=R5_Astable Square Gen3 NewDesignator=R5_ASG1
+Change Component Designator: OldDesignator=R5_Astable Square Gen4 NewDesignator=R5_ASG2
+Change Component Designator: OldDesignator=R5_Astable Square Gen5 NewDesignator=R5_ASG4
+Change Component Designator: OldDesignator=U1_Astable Square Gen1 NewDesignator=U1_ASG5
+Change Component Designator: OldDesignator=U1_Astable Square Gen2 NewDesignator=U1_ASG3
+Change Component Designator: OldDesignator=U1_Astable Square Gen3 NewDesignator=U1_ASG1
+Change Component Designator: OldDesignator=U1_Astable Square Gen4 NewDesignator=U1_ASG2
+Change Component Designator: OldDesignator=U1_Astable Square Gen5 NewDesignator=U1_ASG4
+Change Net Name : Old Net Name=+9_Astable Square Gen1 New Net Name=+9_ASG5
+Change Net Name : Old Net Name=+9_Astable Square Gen2 New Net Name=+9_ASG3
+Change Net Name : Old Net Name=+9_Astable Square Gen3 New Net Name=+9_ASG1
+Change Net Name : Old Net Name=+9_Astable Square Gen4 New Net Name=+9_ASG2
+Change Net Name : Old Net Name=+9_Astable Square Gen5 New Net Name=+9_ASG4
+Change Net Name : Old Net Name=NetC2_Astable Square Gen1_1 New Net Name=NetC2_ASG5_1
+Change Net Name : Old Net Name=NetC2_Astable Square Gen2_1 New Net Name=NetC2_ASG3_1
+Change Net Name : Old Net Name=NetC2_Astable Square Gen3_1 New Net Name=NetC2_ASG1_1
+Change Net Name : Old Net Name=NetC2_Astable Square Gen4_1 New Net Name=NetC2_ASG2_1
+Change Net Name : Old Net Name=NetC2_Astable Square Gen5_1 New Net Name=NetC2_ASG4_1
+Change Net Name : Old Net Name=NetC3_Astable Square Gen1_1 New Net Name=NetC3_ASG5_1
+Change Net Name : Old Net Name=NetC3_Astable Square Gen2_1 New Net Name=NetC3_ASG3_1
+Change Net Name : Old Net Name=NetC3_Astable Square Gen3_1 New Net Name=NetC3_ASG1_1
+Change Net Name : Old Net Name=NetC3_Astable Square Gen4_1 New Net Name=NetC3_ASG2_1
+Change Net Name : Old Net Name=NetC3_Astable Square Gen5_1 New Net Name=NetC3_ASG4_1
+Change Net Name : Old Net Name=NetD1_Astable Square Gen1_2 New Net Name=NetD1_ASG5_2
+Change Net Name : Old Net Name=NetD1_Astable Square Gen2_2 New Net Name=NetD1_ASG3_2
+Change Net Name : Old Net Name=NetD1_Astable Square Gen3_2 New Net Name=NetD1_ASG1_2
+Change Net Name : Old Net Name=NetD1_Astable Square Gen4_2 New Net Name=NetD1_ASG2_2
+Change Net Name : Old Net Name=NetD1_Astable Square Gen5_2 New Net Name=NetD1_ASG4_2
+Change Net Name : Old Net Name=NetR1_Astable Square Gen1_1 New Net Name=NetR1_ASG5_1
+Change Net Name : Old Net Name=NetR1_Astable Square Gen1_2 New Net Name=NetR1_ASG1_2
+Change Net Name : Old Net Name=NetR1_Astable Square Gen2_1 New Net Name=NetR1_ASG3_1
+Change Net Name : Old Net Name=NetR1_Astable Square Gen3_1 New Net Name=NetR1_ASG1_1
+Change Net Name : Old Net Name=NetR1_Astable Square Gen4_1 New Net Name=NetR1_ASG2_1
+Change Net Name : Old Net Name=NetR1_Astable Square Gen5_1 New Net Name=NetR1_ASG4_1
+Change Net Name : Old Net Name=NetR4_Astable Square Gen1_1 New Net Name=NetR4_ASG5_1
+Change Net Name : Old Net Name=NetR4_Astable Square Gen2_1 New Net Name=NetR4_ASG3_1
+Change Net Name : Old Net Name=NetR4_Astable Square Gen3_1 New Net Name=NetR4_ASG1_1
+Change Net Name : Old Net Name=NetR4_Astable Square Gen4_1 New Net Name=NetR4_ASG2_1
+Change Net Name : Old Net Name=NetR4_Astable Square Gen5_1 New Net Name=NetR4_ASG4_1
+Change Class Name : Old Net Name=Astable Square Gen1 New Net Name=ASG5
+Change Class Name : Old Net Name=Astable Square Gen2 New Net Name=ASG3
+Change Class Name : Old Net Name=Astable Square Gen3 New Net Name=ASG1
+Change Class Name : Old Net Name=Astable Square Gen4 New Net Name=ASG2
+Change Class Name : Old Net Name=Astable Square Gen5 New Net Name=ASG4
+Added Member To Class: ClassName=555_Astable Member=ASG (555_Astable.SchDoc)
+Added Member To Class: ClassName=555_Astable Member=ASG (555_Astable.SchDoc)
+Added Member To Class: ClassName=555_Astable Member=ASG (555_Astable.SchDoc)
+Added Member To Class: ClassName=555_Astable Member=ASG (555_Astable.SchDoc)
+Added Member To Class: ClassName=555_Astable Member=ASG (555_Astable.SchDoc)
